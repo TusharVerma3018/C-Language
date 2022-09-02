@@ -1,0 +1,2 @@
+
+    scanf(ptr,"%s",r);
